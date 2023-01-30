@@ -8,18 +8,15 @@ Project consists of a creating a Risk-based access policies as a part of Azure A
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure Portal</b> 
-- <b>Azure AD Identity Protection service</b>
+- <b>Microsoft 365 Defender portal</b> 
 
 <h2>Prerequisites</h2>
 
--<b> Identity Protection policy can be created or modified by anyone assigned the following roles:
- - Conditional Access Administrator
+-<b> File policy for cloud apps can be created or modified by anyone assigned the following roles:
  - Security Administrator
  - Global Administrator
  </b>
-- <b> Licenses: Azure AD Premium P2, Enterprise Mobility and Security E5 plan</b>
-
+- <b> Licenses: at-least Azure Active Directory Premium P1</b>
 
 <h2>Program walk-through:</h2>
 
