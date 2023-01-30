@@ -1,0 +1,9 @@
+Use Defender for Cloud Apps & create a file policy for detection of sharing US PII. Set email alert.
+Steps:
+1.	Go to Microsoft 365 defender
+2.	Cloud apps section select policies  policies management
+3.	Create policy  select category ‘file policy’
+4.	Give a name, select a ‘sharing control’ as category
+5.	Select users-groups, select inspection method & US : PII Social security number
+6.	Select alert as email and add email id of recipient
+7.	Create
